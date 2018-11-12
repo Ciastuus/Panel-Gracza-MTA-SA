@@ -37,6 +37,11 @@ W repozytorium znajduje się:
 - Grafika
 - Czcionki
 
+W repozytorium nie znajduje się:
+
+- Pliki wersji 2.0
+- Pliki wersji 3.0
+
 Gdzie wgrać panel gracza
 ========================================================================
 
