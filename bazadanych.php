@@ -1,9 +1,9 @@
 ﻿<?php
-$bazaHost = 'sql.boxgames.nazwa.pl';
+$bazaHost = 'nazwa hosta';
 $bazaPort = '3306';
-$bazaUzytkownik = 'boxgames_mysql';
-$bazaHaslo = 'Damika24';
-$bazaTabela = 'boxgames_mysql';
+$bazaUzytkownik = 'nazwa użytkownika';
+$bazaHaslo = 'hasło użytkownika';
+$bazaTabela = 'nazwa tabeli';
 
 try{
 	$polaczenieBaza = new PDO('mysql:host='.$bazaHost.';dbname='.$bazaTabela.';port='.$bazaPort, $bazaUzytkownik, $bazaHaslo );
