@@ -86,3 +86,8 @@ Styl jest utrzymywany na boostrap wersji 4.0 - wygodny układ jak i sam wygląd 
 ### Skrypt - Boostrap
 
 Skrypt jest i wyłącznie smaczkiem co do poniektórych rzeczy znajdujących się na stronie, dlatego też jest on też potrzebny. Nic nie zajmuje, a jest on jedynym skryptem, który i wyłącznie wspomaga styl boostrap'a.
+
+### Grafika - Sygnatury
+
+W repozytorium znajduje się pięć grafik, a wzorów, które można Sobie dobrać. Oczywiście można dodać własny wzór. Przy zmianie wzoru stosujemy się kodem znajdującym się w ../sygnatura_gracz.php/ Linijka: 20 oraz Linijka: 42. Dostępne są wzory od 1-5.
+
