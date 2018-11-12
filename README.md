@@ -39,6 +39,7 @@ W repozytorium znajduje się:
 
 W repozytorium nie znajduje się:
 
+- Połączenie z bazą danych widoczną na stronie
 - Pliki wersji 2.0
 - Pliki wersji 3.0
 
