@@ -11,9 +11,11 @@ Autor
 Licencja
 ========================================================================
 
-Kod dystrybuowany jest na licencji: GPLv2. 
+Kod dystrybuowany jest na dwóch licencjach: GPLv2 oraz MIT.
 
 Polskie tłumaczenie licencji GPLv2: http://gnu.org.pl/text/licencja-gnu.html
+
+Polskie tlumaczenie licencji MIT: http://blaszyk-jarosinski.pl/wp-content/uploads/2008/05/licencja-mit-tlumaczenie.pdf
 
 W repozytorium znajdują się również fragmenty kodu z boostrap, dystrybuowane na innej licencji, informacja o tym zawsze znajduje się przy danym zasobie.
 
