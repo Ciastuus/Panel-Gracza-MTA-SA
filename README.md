@@ -22,13 +22,13 @@ W repozytorium znajdują się również fragmenty kodu z boostrap, dystrybuowane
 Powód wydania kodu
 ========================================================================
 
-Wydałem ten kod z prostych powdów:
+Wydałem ten kod z prostych powodów:
 
 1. Oddać społeczności Multi Theft Auto i jego założyciełom serwerów coś nowego.
 
-3. Poprawić jakość powstających serwerów i pokazać, że jednak mogą mieć coś więcej, niż statystki in-game.
+2. Poprawić jakość powstających serwerów i pokazać, że jednak mogą mieć coś więcej, niż statystki in-game.
 
-4. Pokazać, że jednak w takiej grze da się zrobić coś takiego co zostało przedstawione.
+3. Pokazać, że jednak w takiej grze da się zrobić coś takiego co zostało przedstawione.
 
 Zawartość repozytorium
 ========================================================================
